@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">بلدية الخرج</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">البريد الاكتروني</string>
+    <string name="prompt_password">كلمة المرور</string>
+    <string name="action_sign_in">تسجيل دخول</string>
+    <string name="action_sign_up"> انشاء حساب</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="username">اسم المستخدم</string>
+
+    <string name="title_activity_register">انشاء حساب</string>
+    <string name="title_activity_home">الرئيسية</string>
+    <string name="title_home">الرئيسية</string>
+    <string name="title_new_problem">انشاء </string>
+
+    <string name="confirm_password">تاكيد كلمة المرور</string>
+
+
+
+    <string-array name="array_technology">
+        <item>اندرويد</item>
+        <item>جافا</item>
+        <item>بي اتش بي</item>
+        <item>هادوب</item>
+        <item>ساب</item>
+        <item>بايثون</item>
+        <item>اجاكس</item>
+        <item>سي</item>
+        <item>Ruby</item>
+        <item>Rails</item>
+        <item>.Net</item>
+        <item>Perl</item>
+    </string-array>
+
+
+
+    <string name="description">الوصف</string>
+    <string name="title_activity_creae_new_problem">انشاء جديد</string>
+    <string name="create">اضافة</string>
+
+    <string name="action_settings">Settings</string>
+
+</resources>
